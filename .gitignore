@@ -164,6 +164,3 @@ cython_debug/
 
 # Data
 data/
-
-# Ignore the 'ignore_folder' folder and everything inside it
-ignore_folder/
